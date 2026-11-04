@@ -50,6 +50,26 @@ O projeto envolve desenvolvimento Full Stack, estruturação de funcionalidades,
 
 Este projeto representa minha experiência prática na construção de aplicações web e soluções SaaS, aplicando conhecimentos de Engenharia de Software, desenvolvimento Front-End, Back-End e integração de sistemas.
 
+---
+
+## Demonstração visual
+
+### 1. Painel administrativo
+![Painel administrativo](imagens/dashboard-admin.png)
+
+### 2. Chat interno
+![Chat interno](imagens/chat-interno.png)
+
+### 3. Dashboard do atendente
+![Dashboard do atendente](imagens/dashboard-atendente.png)
+
+### 4. Atendimento WhatsApp
+![Atendimento WhatsApp](imagens/atendimento-whatsapp.png)
+
+---
+
+**Desenvolvido por Cristiele Josefa da Conceição**
+
 **Desenvolvido por:** Cristiele Josefa da Conceição
 
 Desenvolvedora Full Stack Júnior | React | JavaScript | Node.js
